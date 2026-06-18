@@ -1,0 +1,7 @@
+AI at work is ruining my thinking skill and mental health
+
+I really want to cry but it feels ridiculous to cry about AI.
+I work in software for security, and recently I'm been tasked to handle evaluating a security risk for our org. But my background is centered in writing software.
+I'm a bit more ok with writing code with AI, even though it also gives me brain fog and I hate not understanding my own committed code changes (due to velocity required). But analyzing a big org using AI is regurgitating AI output to AI input in a loop. I lost meaning of what's the point of what I'm working on. My manager assigned me tasks that don't make sense where the description is generated with AI too. I feel like we have a chain of people creating fake work with AI and using AI to do fake work. It feels so confusing and meaningless. My teammates tasked with similar things are also very confused. We don't have a security degree, and all we can do is giving AI as much data as we can gather and force it to write a report. But we have to all pretend to know what we're doing towards our managers.
+AI caused inflated expectations didn't help. Before people will give a week's headup to create a presentation, now it's a few hours. Pointless dashboards, writeups or presentation are being asked for. I don't think the readers are digesting those data even.
+I truly truly hate this way of working. It's giving me a brain fog and really bad depression after work. I lost interest in my usual hobbies. I kept getting sick.

@@ -1,0 +1,5 @@
+Building reliable mental health care at scale is ultimately a technology challenge.
+
+Too many systems today aren’t designed to support continuity, adapt as needs change, or earn trust over time. Bringing Spring Health and Alma  together gives us the opportunity to build a more resilient technical foundation that supports clinicians, protects patient experience, and holds up as care becomes more complex.
+
+I’m excited about what these two teams can build together and the role thoughtful, well-designed technology can play in making mental health care more dependable for everyone who relies on it.

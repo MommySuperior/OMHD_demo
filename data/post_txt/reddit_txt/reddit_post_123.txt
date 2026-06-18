@@ -1,0 +1,48 @@
+Looking to Re-enter tech/development after a mental-health break in my early 30s. Is it still realistic to build my career in tech?
+
+Hi everyone,
+I’m 33 years old and trying to figure out whether it’s still realistic for me to build a stable career in tech. I’d really appreciate honest advice from people who have experience in the industry.
+Here’s my situation.
+I have a
+Bachelor’s degree in Computer Science
+, but it took me
+7 years to complete
+because I had several backlogs during college. At the time, I didn’t fully understand what was going on with me mentally.
+About
+four years ago
+, I was diagnosed with
+severe clinical depression, OCD and social anxiety
+. I’ve been on medication and working on recovery since then.
+Before stepping away, I worked as a
+software engineer for about 9 months
+. (An internship converted to full-time based on performance.
+Unfortunately, I had to resign because my mental health became overwhelming at the time.
+Now things are
+very stable
+, and I want to rebuild my career.
+The problem is that I feel
+very behind
+. Many people my age already have 8–10 years of experience in the industry, while I essentially have to start over.
+Programming and computers have always been something I genuinely enjoyed. I’ve been interested in
+computers and electronics since childhood
+, and I still want to build things and solve problems through software.
+However, I also struggle with
+procrastination and getting distracted by side projects
+. For example, I sometimes spend time experimenting with home servers, Linux setups, or electronics projects instead of focusing on becoming job-ready as a developer.
+Right now, I’m considering focusing seriously on
+full-stack development (possibly MERN)
+and building projects until I become employable again.
+I am ready to put in the work, study and practice
+But I have several doubts:
+Is it realistically possible to enter or re-enter the software industry in 30s in with such a background?
+If yes, what path would make the most sense today?
+(Frontend, backend, full stack, Devops, something else?)
+What level of projects or preparation is typically needed now to get hired as a junior developer?
+Would companies even consider someone with a gap like this?
+If you were in my position, how would you approach the next 6–12 months?
+I’m not looking for motivation or comfort. I’m trying to understand
+what is realistically possible and what strategy would give me the best chance of rebuilding a career
+.
+Any honest advice from people working in the industry would mean a lot.
+Thank you.
+Edit: I am from India

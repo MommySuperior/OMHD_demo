@@ -1,0 +1,9 @@
+Mental Health vs Pay
+
+I'm at a crossroad in my career.  I'm making about $200K, but dread going in to work every day.
+My company has decades of tech debt that I've been trying to clean up, but it's only there because there's also decades culture that put it there.  To some degree, that's part of the job, so I thought I was prepared for it.
+Wrong.
+While I enjoy fixing bad code and improving all things data related, I'm finding out just how toxic this place can be.  I'm the 3rd or maybe 4th engineer in my role within 1 year.  My boss, fired.  We're extremely short staffed, so burnout is real.  Project management?  More like project micromanagement.  Only, they can't decide if they're waterfall or agile, so they blame it on the tooling system (Jira) and are talking about hopping platforms.  Budgets?  Nope.  Make a proposal, but you won't get written approval.  Instead,  a handslap when you go over...
+The list goes on, but what it boils down to is the company is a game of thrones.  Rather than fixing what's broke, every few months there's a round of finger pointing, demotions, firing, or people just walk.  The people who stay seem to always be competing for each other's jobs and constantly trying to make each other look bad.
+At this point, I'm ready to walk.  The challenge is, I'm so burnt out, I need to take a break before hopping right into another job.  I'm honestly just scared to take that time off because of how crappy the job market is right now and would have a hard time walking away from the money.  But at this point, every day sucks.
+Curious what you guys would do?

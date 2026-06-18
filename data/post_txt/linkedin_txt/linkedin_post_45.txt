@@ -1,0 +1,7 @@
+Seven years of FDA-grade mental health AI just became open source, and it's worth some attention.
+
+I've followed Grace Chang and the Kintsugi team from afar as they built voice biomarker models that detect depression and anxiety, navigated the FDA De Novo path, and poured $30M into the work. Kintsugi is unfortunately shutting down, but Grace made the rare decision to open-source the core models, methodologies, and research rather than let it sit on a shelf.
+
+If you're building in mental health, voice AI, or digital diagnostics, go look at this.
+
+Link in comments.

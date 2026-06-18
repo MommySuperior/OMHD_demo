@@ -1,0 +1,10 @@
+Really pleased to share that our paper, “Investigating the protective effects of social support on forensic inpatient admissions”, has now been published 🎉
+This project, led by Dr Andy Charalambous alongside Gerald (Jerry) Burgess and Rachel Holden, explores a question that often feels intuitively true but is surprisingly under-researched: how much do supportive relationships actually protect people within forensic mental health settings?
+
+Using NHS clinical records and structured risk assessments (HCR-20v3), we analysed data from 330 service users to look at outcomes such as length of stay, incidents, and readmissions. What we found adds weight to something many clinicians will recognise—family and close relationships can play a meaningful protective role, particularly in reducing violence and repeat admissions.
+
+For me, this was a great opportunity to work deeply with complex clinical datasets and apply statistical modelling to real-world service questions.
+I’m really grateful to have been part of this collaboration and to my co-authors for their insight and rigour throughout.
+
+The paper is available here: https://lnkd.in/e4Rmskza
+Would be very interested to hear thoughts around how we can better integrate family and social support into care.

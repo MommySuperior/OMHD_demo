@@ -1,0 +1,9 @@
+A Nature Mental Health perspective this month makes a case worth taking seriously. The global mental healthcare workforce runs from 55 providers per 100,000 in high-income countries to under 1 per 100,000 in low-income ones. Training alone will not close that gap. Technology will fill part of it whether we are ready or not.
+
+The authors argue that the current frame (building smarter AI for mental health) is the wrong target. Intelligence is not what reduces loneliness or improves well-being. Wisdom is. The components that matter empirically are compassion, self-reflection, emotional regulation, and the capacity to hold diverse perspectives. None of these are what large language models are built to optimize for.
+
+They propose artificial wisdom as a design discipline, not a metaphysical claim. The goal is not conscious machines. It is systems engineered around measurable components of wise human behavior, evaluated on fairness, transparency, and long-term outcomes, not just speed and accuracy.
+
+The clinical translation is harder than the framing. Recent trials of AI chatbots for depression and anxiety show real symptom reduction in selected populations. They also document confident-but-wrong outputs, fabricated clinical details, and inconsistent responses to crisis content. The gap between lab performance and bedside behavior is the unresolved part of the field.
+
+For anyone building or deploying mental health technology, the design target matters. Optimizing for the wrong thing at scale is the avoidable error.

@@ -1,0 +1,13 @@
+A risk assessment of AI mental health apps from Common Sense Media and Brainstorm: The Stanford Lab for Mental Health Innovation was released today. Five apps were evaluated. Two vanished from app stores mid-review with no notice and no transition support for active users. One was rated Unacceptable Risk for teen safety. 
+
+Sonar was described as “the standard every product in this space should be held to.” 
+
+The criteria seem obvious. Principles including: Keep kids safe. Be trustworthy. Support human connection. What the report documents is that several products made choices that conflict with those values.
+
+What we built at Sonar is a model that makes safe, effective, human-led support scalable through AI. Every youth-facing message is reviewed and sent by a trained, human Wellbeing Coach. The AI supports coaches so they can reach more youth, respond faster, and never miss a signal. That is the design choice that this assessment evaluated.
+
+The report also notes that Sonar has no peer-reviewed studies yet. This is true. We have outcomes data we and our partners find encouraging, and we are actively working with academic partners on controlled trials. We look forward to sharing those studies when finalized.
+
+To the schools, community behavioral health clinics, and health systems that have trusted us, and to the young people, clinicians, and families within them, thank you. 25,000+ young people across nine states are receiving coaching from real people because of that trust.
+
+As a founder and builder in this space, I welcome analyses like this one, and not just because the findings reflect well on Sonar. It is not a victory to be "Minimally Risky." It is a victory for all of us to have transparent, objective standards applied uniformly to an unprecedented and unregulated space where real human lives are at stake.
