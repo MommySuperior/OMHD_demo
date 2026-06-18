@@ -79,12 +79,12 @@ For the visualizations, I generated document cluster maps to demonstrate the rel
    
 To view the interactive figures, you can ctrl + click on the links below, then right-click the file name at the top and click "Open in Integrated Browser"  
   
-[Reddit documents visualization (interactive)](.\output\figures\reddit_documents.html)  
-[X/Twitter documents visualization (interactive)](.\output\figures\twitter_documents.html)  
-[LinkedIn documents visualization (interactive)](.\output\figures\linkedin_documents.html)  
+[Reddit documents visualization (interactive)](./output/figures/reddit_documents.html)  
+[X/Twitter documents visualization (interactive)](./output/figures/twitter_documents.html)  
+[LinkedIn documents visualization (interactive)](./output/figures/linkedin_documents.html)  
   
 **Reddit**  
-![Reddit documents visualization (static)](.\output\figures\reddit_documents.png) 
+![Reddit documents visualization (static)](./output/figures/reddit_documents.png) 
 *Reddit documents visualization (static)*
     
 | Topic nr. | File count | BERTopic label | Alternative label | Topic words |  
@@ -109,7 +109,7 @@ To view the interactive figures, you can ctrl + click on the links below, then r
 | 16 | 7 | minutes_client_left_company | career struggles | 'minutes', 'client', 'left', 'company', 'stress', 'got', 'crisis', 'worked', 'large', 'center' |  
   
 **X(/Twitter)**  
-![X/Twitter documents visualization (static)](.\output\figures\twitter_documents.png)  
+![X/Twitter documents visualization (static)](./output/figures/twitter_documents.png)  
 *X/Twitter documents visualization (static)*
   
 | Topic nr. | File count | BERTopic label | Alternative label | Topic words |  
@@ -135,7 +135,7 @@ To view the interactive figures, you can ctrl + click on the links below, then r
   
   
 **LinkedIn**  
-![LinkedIn documents visualization (static)](.\output\figures\linkedin_documents.png)  
+![LinkedIn documents visualization (static)](./output/figures/linkedin_documents.png)  
  *LinkedIn documents visualization (static)*
    
 | Topic nr. | File count | BERTopic label | Alternative label | Topic words |  
